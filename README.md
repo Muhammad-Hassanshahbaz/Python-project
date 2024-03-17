@@ -1,1 +1,1 @@
-The Karachi Hospital Navigator project is developed to address the need for a reliable and user-friendly platform for navigating hospitals in Karachi. Whether you're a resident, visitor, or healthcare professional, this tool aims to make it easier to find hospitals
+The Karachi Hospital Navigator project is developed to address the need for a reliable and user-friendly platform for navigating hospitals in Karachi. Whether you're a resident, visitor, or healthcare professional, this tool aims to make it easier to find hospitals.
